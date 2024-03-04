@@ -1,2 +1,2 @@
-# test01.githbu.io
+# test.githbu.io
 测试
